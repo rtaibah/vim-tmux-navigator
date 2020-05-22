@@ -249,6 +249,10 @@ version to confirm with this shell command:
 tmux -V # should return 'tmux 1.8'
 ```
 
+### If you are using tmux-resurrect
+
+Kill all windows and panes and start over.
+
 ### Switching out of Vim Is Slow
 
 If you find that navigation within Vim (from split to split) is fine, but Vim
